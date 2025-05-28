@@ -13,7 +13,7 @@ This site is the digital playground where i:
 - idk, just be stupid
 - yell into the void (the void sometimes yells back)
 
-## ⚙️ Tech Goblins I Used
+## ⚙️ WTF I Use
 
 The site was handcrafted with:
 
@@ -22,6 +22,7 @@ The site was handcrafted with:
 - 🎨 youtube chaotic videos
 - 🧙‍♂️ using turbowarp for shitting (depending on my mood)
 - 🚀 Hosted my shits in the mystical cloud (aka Netlify)
+- Windows 11 (linux is shit in the computer that i use)
 
 ## 🧪 How to Summon This Locally
 
